@@ -1,5 +1,5 @@
-# Matlab_codes_reports
+## Matlab_codes_reports
 
-all matlab course codes
--Numerical method analysis
--Power system
+all matlab course codes\
+-Numerical method analysis\
+-Power systems\
